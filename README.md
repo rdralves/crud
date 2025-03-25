@@ -32,7 +32,7 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) de usuários u
 
 ### 1. Clonar o Repositório
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/seu-usuario/crud.git
 cd seu-repositorio
 ```
 
