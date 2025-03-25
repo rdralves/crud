@@ -32,8 +32,8 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) de usuários u
 
 ### 1. Clonar o Repositório
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/rdralves/crud
+
 ```
 
 ### 2. Criar e Ativar um Ambiente Virtual (Opcional, mas Recomendado)
